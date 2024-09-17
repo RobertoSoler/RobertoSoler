@@ -1,9 +1,10 @@
 <h1 align='center'>Welcome to my Github!</h1>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="./numpy.jpg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="./pandas.jpg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="./scikit.jpg">
+   <img align="center" alt="rsoler" height="30" width="40" src="./sql.jpg">
+  <img align="center" alt="rsoler" height="30" width="40" src="./numpy.png">
+  <img align="center" alt="rsoler" height="30" width="40" src="./pandas.png">
+  <img align="center" alt="rsoler" height="30" width="40" src="./scikit.png">
 </div>
 
 
