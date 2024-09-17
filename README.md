@@ -1,7 +1,6 @@
 <h1 align='center'>Welcome to my Github!</h1>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="./numpy.jpg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="./pandas.jpg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="./scikit.jpg">
