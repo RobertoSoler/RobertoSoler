@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
    <img src='./img/sql.jpg' align="center" alt="sql" height="30" width="40">
-   <img src='./img/pandas.pn' align="center" alt="pandas" height="30" width="40">
+   <img src='./img/pandas.png' align="center" alt="pandas" height="30" width="40">
    <img src='./img/numpy.png' align="center" alt="numpy" height="30" width="40">
 </div>
 
