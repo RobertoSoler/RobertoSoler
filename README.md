@@ -5,6 +5,7 @@
    <img src='./img/sql.jpg' align="center" alt="sql" height="40" width="40">
    <img src='./img/pandas.png' align="center" alt="pandas" height="40" width="80">
    <img src='./img/numpy.png' align="center" alt="numpy" height="40" width="80">
+   <img src='./img/metatrader.jpg' align="center" alt="metatrader" height="40" width="80">
 </div>
 
 
