@@ -1,10 +1,10 @@
 <h1 align='center'>Welcome to my Github!</h1>
 
 <div style="display: inline_block"><br>
-   <img src='./img/python.png' align="center" alt="python" height="30" width="40">
-   <img src='./img/sql.jpg' align="center" alt="sql" height="30" width="40">
-   <img src='./img/pandas.png' align="center" alt="pandas" height="30" width="40">
-   <img src='./img/numpy.png' align="center" alt="numpy" height="30" width="40">
+   <img src='./img/python.png' align="center" alt="python" height="40" width="60">
+   <img src='./img/sql.jpg' align="center" alt="sql" height="40" width="40">
+   <img src='./img/pandas.png' align="center" alt="pandas" height="40" width="40">
+   <img src='./img/numpy.png' align="center" alt="numpy" height="40" width="40">
 </div>
 
 
