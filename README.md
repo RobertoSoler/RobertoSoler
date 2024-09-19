@@ -1,11 +1,9 @@
 <h1 align='center'>Welcome to my Github!</h1>
 
 <div style="display: inline_block"><br>
-   <img src='./img/sql.jpg' align="center" alt="rsoler" height="30" width="40">
-   <img align="center" alt="rsoler" height="30" width="40" src="./sql.jpg">
-   <img align="center" alt="rsoler" height="30" width="40" src="./numpy.png">
-   <img align="center" alt="rsoler" height="30" width="40" src="./pandas.png">
-   <img align="center" alt="rsoler" height="30" width="40" src="./scikit.png">
+   <img src='./img/sql.jpg' align="center" alt="sql" height="30" width="40">
+   <img src='./img/pandas.pn' align="center" alt="pandas" height="30" width="40">
+   <img src='./img/numpy.png' align="center" alt="numpy" height="30" width="40">
 </div>
 
 
