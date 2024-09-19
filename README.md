@@ -7,6 +7,7 @@
    <img src='./img/numpy.png' align="center" alt="numpy" height="60" width="100">
    <img src='./img/metatrader.jpg' align="center" alt="metatrader" height="60" width="80">
    <img src='./img/quantzed.png' align="center" alt="quantzed" height="60" width="140">
+   <img src='./img/aws.png' align="center" alt="aws" height="60" width="100">
 </div>
 
 
